@@ -100,3 +100,17 @@ Sunday	6AM–10PM
 3) Have an events section with hard coded events
 4) Have an about us section with basic information
 5) Have a contact form with formspree
+
+# Code and Coffee #03 - 10/15/2017
+## Website project ideas
+1. Convert title on website to FCC font
+2. Change color scheme of whole website to match FCC scheme
+3. Style the buttons on FCCA
+4. Add video banner to top
+5. Add transitions/autoscroll buttons to site
+6. Add pictures for members
+7. User submitted events with formspree
+8. RSVP app (ReactJS Project)
+9. The next event banner app (ReactJS Project)
+10. Search members function app (ReactJS Project)
+11. Convert whole site (ReactJS Project)
